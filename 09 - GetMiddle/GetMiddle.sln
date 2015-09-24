@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMiddle", "GetMiddle\GetMiddle.csproj", "{B114F045-2DB4-4D4F-98A1-17FA7EDDF204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMiddleTests", "GetMiddleTests\GetMiddleTests.csproj", "{FC9872C6-0879-4879-8044-4277C737C6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B114F045-2DB4-4D4F-98A1-17FA7EDDF204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B114F045-2DB4-4D4F-98A1-17FA7EDDF204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B114F045-2DB4-4D4F-98A1-17FA7EDDF204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B114F045-2DB4-4D4F-98A1-17FA7EDDF204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9872C6-0879-4879-8044-4277C737C6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9872C6-0879-4879-8044-4277C737C6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9872C6-0879-4879-8044-4277C737C6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9872C6-0879-4879-8044-4277C737C6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
